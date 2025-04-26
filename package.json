@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/express": "^5.0.1",
+    "express": "^5.1.0",
+    "ioredis": "^5.6.1",
+    "redis-smq": "^8.2.1",
+    "redis-smq-common": "^8.2.1"
+  }
+}
